@@ -4,7 +4,7 @@
 
 **Computer Science Student**
 
-[![Email](https://img.shields.io/badge/Email-wilit.krolkulsri%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:wilit.kronkulsri@gamil.com)
+[![Email](https://img.shields.io/badge/Email-wilit.kronkulsri%40gamil.com-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:wilit.kronkulsri@gamil.com)
 [![Phone](https://img.shields.io/badge/Phone-092--729--7123-0D1117?style=flat-square&logo=phone&logoColor=white)](#)
 
 </div>
@@ -59,30 +59,11 @@ I'm a Computer Science student with a passion for building reliable software and
 
 ## 📂 Featured Projects
 
-> *(Coming soon — projects will be added here)*
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🚧 Project Name | Brief description of what it does | React, Node.js | [View](#) |
-| 🚧 Project Name | Brief description of what it does | Python, PostgreSQL | [View](#) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=6530200461&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6530200461&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=6530200461&theme=github-dark-blue&hide_border=true)
-
-</div>
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [📊 Data_Visualization_Project](https://github.com/6530200461/Data_Visualization_Project) | Created mock data and built an interactive dashboard to analyze the Instant Noodle Industry — covering brand popularity, sales volume, flavor trends, and price comparisons across major brands. | Python, Jupyter Notebook |
+| [🏨 Dormitory_Program_Java](https://github.com/6530200461/Dormitory_Program_Java) | A hospital room reservation system built in Java, allowing users to browse available rooms and manage bookings efficiently. | Java |
+| [☁️ ML_Project_CloudPrediction](https://github.com/6530200461/ML_Project_CloudPrediction) | A machine learning project for cloud type classification from images, comparing model performance across CNN, KNN, MobileNetV2, and Random Forest. | Python, Jupyter Notebook, CNN, MobileNetV2 |
 ---
 
 ## 📫 Contact
