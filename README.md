@@ -4,7 +4,7 @@
 
 **Computer Science Student**
 
-[![Email](https://img.shields.io/badge/Email-Wilit.k%40ku.th-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:wilit.kronkulsri@gamil.com)
+[![Email](https://img.shields.io/badge/Email-wilit.krolkulsri%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:wilit.kronkulsri@gamil.com)
 [![Phone](https://img.shields.io/badge/Phone-092--729--7123-0D1117?style=flat-square&logo=phone&logoColor=white)](#)
 
 </div>
@@ -89,7 +89,7 @@ I'm a Computer Science student with a passion for building reliable software and
 
 | | |
 |---|---|
-| 📧 Email | [Wilit.k@ku.th](mailto:Wilit.k@ku.th) |
+| 📧 Email | [wilit.kronkulsri@gamil.com](mailto:wilit.kronkulsri@gamil.com) |
 | 📞 Phone | 092-729-7123 |
 
 ---
