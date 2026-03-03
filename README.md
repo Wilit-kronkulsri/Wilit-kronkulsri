@@ -53,7 +53,6 @@ I'm a Computer Science student with a passion for building reliable software and
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
 
 ---
 
@@ -66,12 +65,36 @@ I'm a Computer Science student with a passion for building reliable software and
 | [☁️ ML_Project_CloudPrediction](https://github.com/6530200461/ML_Project_CloudPrediction) | A machine learning project for cloud type classification from images, comparing model performance across CNN, KNN, MobileNetV2, and Random Forest. | Python, Jupyter Notebook, CNN, MobileNetV2 |
 ---
 
+## 🏆 Certifications
+
+### 🏢 Industry & Professional
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| Data Engineer with Microsoft Azure (8 hrs) | KU Sriracha × Microsoft Thailand | 2024 |
+| Financial Business Skills Development | KU Sriracha × Krungthai Bank | 2025 |
+| Java — Top 10% | [TestDome](https://www.testdome.com/certificates/e9e9aa7c8b7145f0bb66c0470c1d6c9f) | 2023 |
+
+### 💻 Technical Training
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| FutureTech: Web Application Design Skills | KU Sriracha, Faculty of Science | 2024 |
+| FutureTech: Cloud Computing Skills | KU Sriracha, Faculty of Science | 2024 |
+| Introduction to Statistical Methods with MATLAB | MathWorks Training Services | 2023 |
+| MATLAB Onramp | MathWorks Training Services | 2023 |
+
+### 🎓 University Programs
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| KU Digital Literacy | Kasetsart University | 2023 |
+| OneDrive & Microsoft Forms Workflow Automation | KU Sriracha | 2023 |
+| Power BI Foundations: Unlocking Insights for Beginners | KU Sriracha | 2023 |
+| ChatGPT and AI for Digital Students | KU Sriracha | 2023 |
+
 ## 📫 Contact
 
 | | |
 |---|---|
 | 📧 Email | [wilit.kronkulsri@gamil.com](mailto:wilit.kronkulsri@gamil.com) |
-
 ---
 
 <div align="center">
