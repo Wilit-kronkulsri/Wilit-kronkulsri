@@ -53,24 +53,23 @@ I am a **Computer Science graduate (Kasetsart University, 2026)** with hands-on 
 
 ### 🍽️ AI-Powered Mobile App for Food Recognition (Senior Project)
 *   **Role:** End-to-End AI & Business Analyst
-*   **Achievements:** 🏆 **Honorable Mention** at *KU AI Pioneers: Forward Challenge 2026*
+*   **Achievements:** 🏆 **Honorable Mention** at *KU AI Pioneers: Forward Challenge 2026* (Awarded: June 2026)
 *   **Key Responsibilities:**
-    *   Gathered and translated user requirements into a structured, technical AI solution while defining project scope, success criteria, and mapping out data flows.
-    *   Built a data pipeline to collect, clean, and preprocess a custom image dataset (covering Thai food classes such as Pad Thai, Tom Yum Goong, and Pad Krapow) to ensure data consistency for ML training.
+    *   Gathered and translated user requirements into a structured, technical AI solution, defining project scope, success criteria, and mapping out data flows.
+    *   Built a data pipeline to collect, clean, and preprocess a custom image dataset (covering 11 classes, e.g., Pad Thai, Tom Yum, Pad Krapow) to ensure consistency for ML training.
     *   Designed and implemented a two-step AI pipeline using **Python, TensorFlow, and Keras** to train and evaluate a **MobileNetV2** transfer learning model.
-    *   Integrated **Generative AI APIs (LLM-based)** to enrich recognition precision and produce structured, query-ready data outputs for downstream reporting and insight generation.
-    *   Managed the entire ML lifecycle from prototype to production deployment as a mobile application.
-
+    *   Integrated **Generative AI APIs** to enrich recognition precision and produce structured data outputs for downstream insight generation.
+    *   Managed the ML lifecycle from prototype to production deployment as a mobile application.
 ### ☁️ ML Project: Cloud Prediction
 *   **Description:** Developed an image classification pipeline for cloud type identification. Evaluated and compared multi-model performances across CNN, KNN, MobileNetV2, and Random Forest architectures within cloud notebook environments.
 *   **Tech Stack:** `Python`, `Jupyter Notebook`, `TensorFlow`, `Scikit-Learn`
 
 ### 📊 Data Visualization Project
-*   **Description:** Built an interactive data visualization dashboard using mock data to analyze consumer and product metrics within the instant noodle industry, focusing on brand popularity, flavor trends, and price points.
+*   **Description:** Built an interactive data visualization dashboard using mock data to analyze consumer and product metrics within the instant noodle industry, focusing on brand popularity, flavor trends, and price points.[cite: 1]
 *   **Tech Stack:** `Python`, `Jupyter Notebook`, `Pandas`, `Matplotlib`
 
 ### 🏨 Hospital Room Reservation System
-*   **Description:** Designed and implemented a hospital room reservation and dormitory management software application applying structural OOP paradigms.[cite: 1]
+*   **Description:** Designed and implemented a hospital room reservation and management software application, applying structural OOP paradigms for efficient booking management.
 *   **Tech Stack:** `Java`
 
 ---
