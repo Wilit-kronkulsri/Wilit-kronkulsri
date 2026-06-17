@@ -1,102 +1,98 @@
 <div align="center">
 
-# Wilit Kronkulsri
+# 👋 Hi, I'm Wilit Kronkulsri
 
-**Computer Science Student**
+<h3>AI Engineer | Data Scientist | Data Engineer | Data Analyst</h3>
 
-[![Email](https://img.shields.io/badge/Email-wilit.kronkulsri%40gamil.com-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:wilit.kronkulsri@gamil.com)
+<p><strong>Bridging the gap between business needs and data-driven intelligent solutions.</strong></p>
+
+[![Email](https://img.shields.io/badge/Email-wilit.kronkulsri%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wilit.kronkulsri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Wilit--kronkulsri-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wilit-kronkulsri)
 
 </div>
 
 ---
 
-## About Me
+## 🔭 Professional Summary
 
-I'm a Computer Science student with a passion for building reliable software and solving real-world problems through code. I enjoy working across the full stack — from designing intuitive front-end interfaces to building efficient back-end systems and databases.
+I am a **Computer Science graduate (Kasetsart University, 2026)** with hands-on experience across the **full data lifecycle**—spanning from requirements gathering and business process analysis to data engineering, machine learning pipeline design, and interactive BI visualization. I specialize in translating complex business requirements into scalable, data-driven technical solutions and deploying intelligent end-to-end applications.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science — Computer Science**  
-*(In Progress)*
+### Kasetsart University, Sriracha Campus
+**Bachelor of Science — Computer Science** | *GPAX: 2.85* (Graduated: April 2026)
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### 🧠 AI / Machine Learning & Computer Vision
+*   **Core ML/DL:** TensorFlow, Keras, Scikit-learn, MobileNetV2, Transfer Learning
+*   **Advanced AI:** Generative AI APIs Integration (LLM-based)
+*   **Methodologies:** Predictive Modeling, Feature Engineering, Computer Vision, Statistical Modeling
 
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+### ☁️ Data Engineering & Cloud Infrastructure
+*   **Tools & Engines:** Apache Spark, ETL Pipelines, Data Modeling, Big Data
+*   **Databases:** SQL Server, MySQL, PostgreSQL
+*   **Cloud Platforms:** Azure (Azure for Data Engineer Certified), AWS, GCP
 
-### Back-End & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### 📊 Business Analysis & Business Intelligence
+*   **Business Analysis:** Requirements Gathering, Process Analysis, User Stories, Stakeholder Communication, Gap Analysis, Use Case Design
+*   **BI & Analytics:** Power BI (Dashboards & Reporting), Exploratory Data Analysis (EDA), Statistical Analysis, Data Mining, KPI Tracking
 
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+### 💻 Languages & Dev Tools
+*   **Languages:** Python (Primary), SQL, Java, C, C++, PHP
+*   **Tools & Workflow:** Git, Next.js, PyCharm, VS Code, Selenium, MATLAB
+*   **SDLC/Testing:** Agile/Scrum, Functional Testing, Regression Testing, UAT, SIT
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [📊 Data_Visualization_Project](https://github.com/6530200461/Data_Visualization_Project) | Created mock data and built an interactive dashboard to analyze the Instant Noodle Industry — covering brand popularity, sales volume, flavor trends, and price comparisons across major brands. | Python, Jupyter Notebook |
-| [🏨 Dormitory_Program_Java](https://github.com/6530200461/Dormitory_Program_Java) | A hospital room reservation system built in Java, allowing users to browse available rooms and manage bookings efficiently. | Java |
-| [☁️ ML_Project_CloudPrediction](https://github.com/6530200461/ML_Project_CloudPrediction) | A machine learning project for cloud type classification from images, comparing model performance across CNN, KNN, MobileNetV2, and Random Forest. | Python, Jupyter Notebook, CNN, MobileNetV2 |
+### 🍽️ AI-Powered Mobile App for Food Recognition (Senior Project)
+*   **Role:** End-to-End AI & Business Analyst
+*   **Achievements:** 🏆 **Honorable Mention** at *KU AI Pioneers: Forward Challenge 2026*
+*   **Key Responsibilities:**
+    *   Gathered and translated user requirements into a structured, technical AI solution while defining project scope, success criteria, and mapping out data flows.
+    *   Built a data pipeline to collect, clean, and preprocess a custom image dataset (covering Thai food classes such as Pad Thai, Tom Yum Goong, and Pad Krapow) to ensure data consistency for ML training.
+    *   Designed and implemented a two-step AI pipeline using **Python, TensorFlow, and Keras** to train and evaluate a **MobileNetV2** transfer learning model.
+    *   Integrated **Generative AI APIs (LLM-based)** to enrich recognition precision and produce structured, query-ready data outputs for downstream reporting and insight generation.
+    *   Managed the entire ML lifecycle from prototype to production deployment as a mobile application.
+
+### ☁️ ML Project: Cloud Prediction
+*   **Description:** Developed an image classification pipeline for cloud type identification. Evaluated and compared multi-model performances across CNN, KNN, MobileNetV2, and Random Forest architectures within cloud notebook environments.
+*   **Tech Stack:** `Python`, `Jupyter Notebook`, `TensorFlow`, `Scikit-Learn`
+
+### 📊 Data Visualization Project
+*   **Description:** Built an interactive data visualization dashboard using mock data to analyze consumer and product metrics within the instant noodle industry, focusing on brand popularity, flavor trends, and price points.
+*   **Tech Stack:** `Python`, `Jupyter Notebook`, `Pandas`, `Matplotlib`
+
+### 🏨 Hospital Room Reservation System
+*   **Description:** Designed and implemented a hospital room reservation and dormitory management software application applying structural OOP paradigms.[cite: 1]
+*   **Tech Stack:** `Java`
+
 ---
 
-## 🏆 Certifications
+## 💼 Professional Experience
 
-### 🏢 Industry & Professional
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| Data Engineer with Microsoft Azure (8 hrs) | KU Sriracha × Microsoft Thailand | 2024 |
-| Financial Business Skills Development | KU Sriracha × Krungthai Bank | 2025 |
-| Java — Top 10% | [TestDome](https://www.testdome.com/certificates/e9e9aa7c8b7145f0bb66c0470c1d6c9f) | 2023 |
+### 💻 Full-stack Developer & Software Tester (Internship) | Alstorm
+*May 2025 - October 2025*
+*   Developed and integrated full-stack application features while collaborating actively within an **Agile/Scrum** environment.
+*   Conducted rigorous **Functional and Regression Testing** workflows to identify bugs and guarantee software stability before production releases.
 
-### 💻 Technical Training
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| FutureTech: Web Application Design Skills | KU Sriracha, Faculty of Science | 2024 |
-| FutureTech: Cloud Computing Skills | KU Sriracha, Faculty of Science | 2024 |
-| Introduction to Statistical Methods with MATLAB | MathWorks Training Services | 2023 |
-| MATLAB Onramp | MathWorks Training Services | 2023 |
+---
 
-### 🎓 University Programs
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| KU Digital Literacy | Kasetsart University | 2023 |
-| OneDrive & Microsoft Forms Workflow Automation | KU Sriracha | 2023 |
-| Power BI Foundations: Unlocking Insights for Beginners | KU Sriracha | 2023 |
-| ChatGPT and AI for Digital Students | KU Sriracha | 2023 |
+## 🏆 Certifications & Training
 
-## 📫 Contact
+*   **2026:** KU AI Pioneers: Forward Challenge (Honorable Mention)
+*   **2024:** Microsoft Certified: Azure for Data Engineer
+*   **2024:** Next.js Training Skills, Cloud Computing Skills, Web Application Design
+*   **2023:** Power BI: Unlocking Insights, AI for Digital, ChatGPT and AI for Digital Students
 
-| | |
-|---|---|
-| 📧 Email | [wilit.kronkulsri@gamil.com](mailto:wilit.kronkulsri@gamil.com) |
 ---
 
 <div align="center">
-<sub>Open to internship and full-time opportunities · Available for collaboration</sub>
+<sub>Open to opportunities in AI/ML Engineering, Data Engineering, and Data/Business Analytics. Let's build something intelligent together!</sub>
 </div>
